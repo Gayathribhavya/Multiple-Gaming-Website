@@ -21,7 +21,6 @@ This experience strengthened our ability to collaborate, innovate, and solve rea
 ## Technologies & Tools
 - **Programming Languages:** Python, ANSI SQL
 - **Frameworks:** Django, Flask
-- **Cloud Platforms:** AWS, Google Cloud
 - **Databases:** PostgreSQL, MySQL
 - **Other:** Git, VS Code
 
